@@ -1,0 +1,10 @@
+C:\Users\ademk\source\repos\Egitim\AdoNetDemo\bin\Debug\AdoNetDemo.exe.config
+C:\Users\ademk\source\repos\Egitim\AdoNetDemo\bin\Debug\AdoNetDemo.exe
+C:\Users\ademk\source\repos\Egitim\AdoNetDemo\bin\Debug\AdoNetDemo.pdb
+C:\Users\ademk\source\repos\Egitim\AdoNetDemo\obj\Debug\AdoNetDemo.csproj.AssemblyReference.cache
+C:\Users\ademk\source\repos\Egitim\AdoNetDemo\obj\Debug\AdoNetDemo.Form1.resources
+C:\Users\ademk\source\repos\Egitim\AdoNetDemo\obj\Debug\AdoNetDemo.Properties.Resources.resources
+C:\Users\ademk\source\repos\Egitim\AdoNetDemo\obj\Debug\AdoNetDemo.csproj.GenerateResource.cache
+C:\Users\ademk\source\repos\Egitim\AdoNetDemo\obj\Debug\AdoNetDemo.csproj.CoreCompileInputs.cache
+C:\Users\ademk\source\repos\Egitim\AdoNetDemo\obj\Debug\AdoNetDemo.exe
+C:\Users\ademk\source\repos\Egitim\AdoNetDemo\obj\Debug\AdoNetDemo.pdb

@@ -1,0 +1,12 @@
+C:\Users\ademk\source\repos\Egitim\FirebirdEntityFrameworkDemo\bin\Debug\FirebirdEntityFrameworkDemo.exe.config
+C:\Users\ademk\source\repos\Egitim\FirebirdEntityFrameworkDemo\bin\Debug\FirebirdEntityFrameworkDemo.exe
+C:\Users\ademk\source\repos\Egitim\FirebirdEntityFrameworkDemo\bin\Debug\FirebirdEntityFrameworkDemo.pdb
+C:\Users\ademk\source\repos\Egitim\FirebirdEntityFrameworkDemo\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\ademk\source\repos\Egitim\FirebirdEntityFrameworkDemo\obj\Debug\FirebirdEntityFrameworkDemo.csproj.AssemblyReference.cache
+C:\Users\ademk\source\repos\Egitim\FirebirdEntityFrameworkDemo\obj\Debug\FirebirdEntityFrameworkDemo.Form1.resources
+C:\Users\ademk\source\repos\Egitim\FirebirdEntityFrameworkDemo\obj\Debug\FirebirdEntityFrameworkDemo.Properties.Resources.resources
+C:\Users\ademk\source\repos\Egitim\FirebirdEntityFrameworkDemo\obj\Debug\FirebirdEntityFrameworkDemo.csproj.GenerateResource.cache
+C:\Users\ademk\source\repos\Egitim\FirebirdEntityFrameworkDemo\obj\Debug\FirebirdEntityFrameworkDemo.csproj.CoreCompileInputs.cache
+C:\Users\ademk\source\repos\Egitim\FirebirdEntityFrameworkDemo\obj\Debug\FirebirdEntityFrameworkDemo.csproj.CopyComplete
+C:\Users\ademk\source\repos\Egitim\FirebirdEntityFrameworkDemo\obj\Debug\FirebirdEntityFrameworkDemo.exe
+C:\Users\ademk\source\repos\Egitim\FirebirdEntityFrameworkDemo\obj\Debug\FirebirdEntityFrameworkDemo.pdb
